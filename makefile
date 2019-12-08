@@ -1,4 +1,4 @@
-objects = ChromDPDr.f90
+objects = DPDchrom-r.f90
 
    FC = mpif90		
    FFLAGS = 
