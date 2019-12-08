@@ -1,4 +1,4 @@
-objects = dpdnanov1.25.F90
+objects = ChromDPDr.f90
 
    FC = mpif90		
    FFLAGS = 
