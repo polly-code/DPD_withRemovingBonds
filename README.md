@@ -12,7 +12,7 @@ Fortran90 compiler. The package has been tested on the following systems: Ubuntu
 
 ## General notes
 
-To visualize output restart files you may convert it to mol2 via rst2mol2.py from the mentioned repository (https://github.com/KPavelI/dpd) in example folder. If you are using this code, please, cite the folowing works [3-5].
+To visualize output restart files you may convert it to mol2 via rst2mol2.py from the mentioned repository (https://github.com/KPavelI/dpd) in example folder. If you are using this code, please, cite the folowing works [3, 4].
 
 ## References.
 
