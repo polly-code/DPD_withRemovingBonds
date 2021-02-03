@@ -1,6 +1,6 @@
 # Dissipative particle dynamics to reproduce conformation
 
-This implementation of DPD is based on the repository (https://github.com/KPavelI/dpd) which was used for the simulation chromatin interactions with the nuclear lamina [1].
+This implementation of DPD is based on the [repository](https://github.com/KPavelI/dpd) which was used for the simulation chromatin interactions with the nuclear lamina [1].
 
 ## Hardaware requirements
 
