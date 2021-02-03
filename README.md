@@ -1,18 +1,18 @@
-# Dissipative particle dynamics for static chromatin simulations (DPDchrom)
+# Dissipative particle dynamics to reproduce conformation
 
 This implementation of DPD is based on the repository (https://github.com/KPavelI/dpd) which was used for the simulation chromatin interactions with the nuclear lamina [1].
 
 ## Hardaware requirements
 
-The RAM, HDD and CPU are depend on the considering system and desired simulation time. Current calculations was performed on cluster lomonosov-2 [2], each run was executed on 56 cores.
+The RAM, HDD and CPU are depend on the system size and available simulation time. Current calculations were performed on cluster lomonosov-2 [2], for each run we used 56 cores.
 
 ## Software requirements
 
-Fortran90 compiler. The package has been tested on the following systems: Ubuntu 16.04, CentOS Linux (release 7.1.1503).
+Fortran90 compiler. The software has been tested on the following systems: `Ubuntu 16.04`, `CentOS Linux` (release 7.1.1503).
 
 ## General notes
 
-To visualize output restart files you may convert it to mol2 via rst2mol2.py from the mentioned repository (https://github.com/KPavelI/dpd) in example folder. If you are using this code, please, cite the folowing works [3, 4].
+To visualize output restart files you may convert it to **mol2** using `rst2mol2.py` from the mentioned [repository](https://github.com/KPavelI/dpd) from example folder. If you are using this code, please, cite the folowing works [3, 4].
 
 ## References.
 
